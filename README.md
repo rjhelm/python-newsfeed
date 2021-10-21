@@ -72,7 +72,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Python News][home-page]](https://github.com/rjhelm/python-newsfeed/blob/main/assets/home.png?raw=true)
+![Python News][home-page](https://github.com/rjhelm/python-newsfeed/blob/main/assets/home.png?raw=true)
 
 This is a discussion board web application the has been refactored. Originally built using Node.js and express, now refactored to utilize a python backend and templating that python is compatible with as well.
 
@@ -85,7 +85,7 @@ How it works:
 
 We were able to replace the use of node, express, sequelize and jwt with python and create a functioning web application.
 
-[![Python News][login-signup]](https://github.com/rjhelm/python-newsfeed/blob/main/assets/login-signup.png?raw=true)
+![Python News][login-signup](https://github.com/rjhelm/python-newsfeed/blob/main/assets/login-signup.png?raw=true)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
