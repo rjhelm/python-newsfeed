@@ -170,7 +170,6 @@ Project Link: [https://github.com/rjhelm/python-newsfeed](https://github.com/rjh
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/rjhelm/python-newsfeed.svg?style=for-the-badge
 [contributors-url]: https://github.com/rjhelm/python-newsfeed
-[forks-shield]: https://img.shields.io/github/forks/rjhelm/python-newsfeed.svg?style=for-the-badge
 [issues-shield]: https://img.shields.io/github/issues/rjhelm/python-newsfeed.svg?style=for-the-badge
 [issues-url]: https://github.com/rjhelm/python-newsfeed/issues
 [license-shield]: https://img.shields.io/github/license/rjhelm/python-newsfeed.svg?style=for-the-badge
