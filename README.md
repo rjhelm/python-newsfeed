@@ -18,8 +18,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -30,7 +28,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/rjhelm/python-newsfeed">
-    <img src="" alt="Logo" width="80" height="80">
+    <img src="https://github.com/rjhelm/python-newsfeed/blob/main/assets/home.png?raw=true" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Python Tech News Discussion Board</h3>
@@ -86,6 +84,8 @@ How it works:
 * Authentication for login, signup, logout. Also bcrypt for password hashing and securing user passwords.
 
 We were able to replace the use of node, express, sequelize and jwt with python and create a functioning web application.
+
+[![Python News][login-signup]](https://github.com/rjhelm/python-newsfeed/blob/main/assets/login-signup.png?raw=true)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
